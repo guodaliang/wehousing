@@ -1,0 +1,100 @@
+{
+    "apartments": [
+        {
+            "houseid": 1,
+        	"name": "The Pavilion on Berry",
+        	"image": "image-1.jpg",
+        	"price": 512,
+        	"popularity": 4,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {        	
+            "houseid": 2,
+        	"name": "Radius @15th",
+        	"image": "image-3.jpg",
+        	"price": 492,
+        	"popularity": 5,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+            "houseid": 3,
+        	"name": "416 Lofts",
+        	"image": "image-2.jpg",
+        	"price": 460,
+        	"popularity": 3,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+        {
+            "houseid": 4,
+        	"name": "Edge on Oak",
+        	"image": "image-4.jpg",
+        	"price": 532,
+        	"popularity": 7,
+        	"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+        },
+		{
+			"houseid": 5,
+			"name": "Gender-open housing space",
+			"image": "image-5.jpg",
+			"price": 567,
+			"popularity": 2,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 6,
+			"name": "Large Art Museum",
+			"image": "image-6.jpg",
+			"price": 58,
+			"popularity": 20,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 7,
+			"name": "The Pavilion on Berry",
+			"image": "image-1.jpg",
+			"price": 516,
+			"popularity": 6,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 8,
+			"name": "Radius @15th",
+			"image": "image-3.jpg",
+			"price": 477,
+			"popularity": 6,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 9,
+			"name": "416 Lofts",
+			"image": "image-2.jpg",
+			"price": 467,
+			"popularity": 9,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 10,
+			"name": "The Pavilion on Berry",
+			"image": "image-1.jpg",
+			"price": 568,
+			"popularity": 7,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 11,
+			"name": "Radius @15th",
+			"image": "image-3.jpg",
+			"price": 436,
+			"popularity": 9,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		},
+		{
+			"houseid": 12,
+			"name": "416 Lofts",
+			"image": "image-2.jpg",
+			"price": 800,
+			"popularity": 1,
+			"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+		}
+    ]
+}
